@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="newPrefix">
+        <file>icons/icons8-library-64.png</file>
+        <file>icons/icons8-add-64.png</file>
+        <file>icons/icons8-edit-64.png</file>
+        <file>icons/icons8-sell-60.png</file>
+        <file>icons/icons8-test-account-64.png</file>
+        <file>icons/icons8-order-history-64.png</file>
+        <file>icons/icons8-search-64.png</file>
+        <file>icons/icons8-add2-64.png</file>
+        <file>icons/icons8-export-csv-64.png</file>
+        <file>icons/icons8-import-csv-64.png</file>
+        <file>icons/icons8-info-64.png</file>
+        <file>icons/icons8-remove-64.png</file>
+        <file>icons/icons8-synchronize-64.png</file>
+        <file>icons/icons8-sell-64.png</file>
+        <file>icons/icons8-rent-64.png</file>
+        <file>icons/icons8-buy-645.png</file>
+        <file>icons/icons8-return-book-64.png</file>
+    </qresource>
+</RCC>
